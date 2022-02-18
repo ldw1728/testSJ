@@ -24,7 +24,7 @@ class Hello {
     public static void main(String[] args){
         Hello hello = new Hello();
 
-        hello.setSay("leedongwooklee");
+        hello.setSay("jump");
 
         System.out.println(hello.say);
     }
